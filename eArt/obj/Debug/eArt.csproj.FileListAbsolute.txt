@@ -1,0 +1,6 @@
+c:\users\esteban\documents\visual studio 2015\Projects\eArt\eArt\bin\eArt.dll.config
+c:\users\esteban\documents\visual studio 2015\Projects\eArt\eArt\bin\eArt.dll
+c:\users\esteban\documents\visual studio 2015\Projects\eArt\eArt\bin\eArt.pdb
+c:\users\esteban\documents\visual studio 2015\Projects\eArt\eArt\obj\Debug\eArt.csprojResolveAssemblyReference.cache
+c:\users\esteban\documents\visual studio 2015\Projects\eArt\eArt\obj\Debug\eArt.dll
+c:\users\esteban\documents\visual studio 2015\Projects\eArt\eArt\obj\Debug\eArt.pdb
